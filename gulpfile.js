@@ -157,6 +157,7 @@ gulp.task('js-admin', function () {
             'node_modules/fancybox/dist/js/jquery.fancybox.js',
             'node_modules/alertify.js/dist/js/alertify.js',
             'node_modules/datatables/media/js/jquery.dataTables.js',
+            'node_modules/datatables-bootstrap3-plugin/media/js/datatables-bootstrap3.js',
             'resources/assets/js/admin/*',
             'resources/assets/typicms/**/*.js'
         ];
